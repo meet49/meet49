@@ -16,7 +16,7 @@
 - 🗄️ Databases: **PostgreSQL, MySQL, MongoDB, Supabase**
 - 🎯 Passionate about **clean code, scalable architecture & great UI/UX**
 - 📚 Always learning — currently exploring **OOPs, System Design & Cloud**
-- 🌐 All my projects: [meetsojitra.netlify.app](https://meetsojitra.netlify.app/)
+- 🌐 All my projects: [meetsojitra.netlify.app](https://meetsojitra.vercel.app/)
 - 📫 Reach me: **meetsojitra49@gmail.com**
 
 ---
